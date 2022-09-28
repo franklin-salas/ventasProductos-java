@@ -21,3 +21,14 @@ En este proyecto a pesar que es pequeño veremos muchas cosas , como ser clases 
  * Observer
  
 ![](https://raw.githubusercontent.com/lanister-law/ventasProductos/master/imagenes/p_4.png)
+
+
+## Proyecto
+
+Conexion a base de datos 
+
+ ![](https://raw.githubusercontent.com/lanister-law/ventasProductos/master/imagenes/persistencia.png) 
+ 
+Productos-Inventario
+
+![](https://raw.githubusercontent.com/lanister-law/ventasProductos/master/imagenes/proyecto.png) 
