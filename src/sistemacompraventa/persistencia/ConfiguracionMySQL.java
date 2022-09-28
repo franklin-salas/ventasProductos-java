@@ -52,7 +52,8 @@ public class ConfiguracionMySQL implements ConfiguracionBD{
 
     @Override
     public String getDrive() {
-        return "com.mysql.jdbc.Driver";
+        //return "com.mysql.jdbc.Driver";
+        return "com.mysql.cj.jdbc.Driver";
     }
     
 }
