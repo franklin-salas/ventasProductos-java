@@ -2,6 +2,19 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/D:/java/SistemaCompraVenta/src/sistemacompraventa/persistencia/Field.java</file>
+            <file>file:/D:/java/SistemaCompraVenta/src/sistemacompraventa/view/jTableItem.java</file>
+            <file>file:/D:/java/SistemaCompraVenta/src/sistemacompraventa/persistencia/ConfiguracionMySQL.java</file>
+            <file>file:/D:/java/SistemaCompraVenta/src/sistemacompraventa/view/jTableProducto.java</file>
+            <file>file:/D:/java/SistemaCompraVenta/src/sistemacompraventa/persistencia/Conector.java</file>
+            <file>file:/D:/java/SistemaCompraVenta/src/sistemacompraventa/view/frmFactura.java</file>
+            <file>file:/D:/java/SistemaCompraVenta/src/sistemacompraventa/negocio/NProducto.java</file>
+            <file>file:/D:/java/SistemaCompraVenta/src/sistemacompraventa/persistencia/dato/Combo.java</file>
+            <file>file:/D:/java/SistemaCompraVenta/src/sistemacompraventa/persistencia/TipoBD.java</file>
+            <file>file:/D:/java/SistemaCompraVenta/src/sistemacompraventa/persistencia/ConfiguracionPostgreSQL.java</file>
+            <file>file:/D:/java/SistemaCompraVenta/src/sistemacompraventa/persistencia/Model.java</file>
+            <file>file:/D:/java/SistemaCompraVenta/src/sistemacompraventa/persistencia/Utility.java</file>
+        </group>
     </open-files>
 </project-private>

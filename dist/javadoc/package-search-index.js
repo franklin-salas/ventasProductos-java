@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"sistemacompraventa"},{"l":"sistemacompraventa.negocio"},{"l":"sistemacompraventa.persistencia"},{"l":"sistemacompraventa.persistencia.dato"},{"l":"sistemacompraventa.proceso"},{"l":"sistemacompraventa.utils"},{"l":"sistemacompraventa.view"}];updateSearchResults();

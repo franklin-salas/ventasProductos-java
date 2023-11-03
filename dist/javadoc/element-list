@@ -1,0 +1,7 @@
+sistemacompraventa
+sistemacompraventa.negocio
+sistemacompraventa.persistencia
+sistemacompraventa.persistencia.dato
+sistemacompraventa.proceso
+sistemacompraventa.utils
+sistemacompraventa.view

@@ -1,7 +1,22 @@
 # Proyecto con Patrones de diseño
-En este proyecto a pesar que es pequeño veremos muchas cosas , como ser clases ,Clases genericas, herencias , polimorfismo , patrones de arquitectura y patrones de diseño.
+En este proyecto a pesar que es pequeño veremos muchas cosas , como ser Clases ,Clases genericas, Herencias , Polimorfismo , Patrones de arquitectura y Patrones de diseño.
+
+## Proyecto Venta de Productos
+
+Productos - Inventario
+
+![](https://raw.githubusercontent.com/lanister-law/ventasProductos/master/imagenes/proyecto.png) 
+
+
+Multiple conexion a bases de datos 
+
+ ![](https://raw.githubusercontent.com/lanister-law/ventasProductos/master/imagenes/persistencia.png) 
+ 
+
 
 ## Arquitectura de 3 capas
+
+
 ## Patrones de diseño 
  * Singleton
  
@@ -23,12 +38,3 @@ En este proyecto a pesar que es pequeño veremos muchas cosas , como ser clases 
 ![](https://raw.githubusercontent.com/lanister-law/ventasProductos/master/imagenes/p_4.png)
 
 
-## Proyecto
-
-Conexion a base de datos 
-
- ![](https://raw.githubusercontent.com/lanister-law/ventasProductos/master/imagenes/persistencia.png) 
- 
-Productos-Inventario
-
-![](https://raw.githubusercontent.com/lanister-law/ventasProductos/master/imagenes/proyecto.png) 
